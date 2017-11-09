@@ -1,3 +1,5 @@
+import time
+
 print("Write somenones name")
 person1 = input()
 
@@ -32,3 +34,6 @@ verb4 = input()
 
 print("Last summer me and my friend " + person1 + " went to " + noun1 + " and ate a lot of " + food1 + " while I was " + verb1 + " and staring at " + bodypart1 +
       " and there was Chimi Changas all over my face so I decide to " + verb2 + " away from " + noun2 + " and while I was running away from home I found a " + animal1 + " and it started to " + verb3 + " so I got really scared and started to " + verb4)
+
+
+time.sleep(100)
