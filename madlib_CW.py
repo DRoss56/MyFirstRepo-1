@@ -3,7 +3,7 @@ import time
 print("Write somenones name")
 person1 = input()
 
-print("Write a noun")
+print("Write a place")
 noun1 = input()
 
 print("Write a food")
